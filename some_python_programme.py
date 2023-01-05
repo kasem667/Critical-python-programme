@@ -19,3 +19,6 @@ if num%2==0:
     print("Even")
 else:
     print("Odd")
+
+
+# I am a python Junior programmer. I have already solved more then 100 problem. SO pray for me.    
