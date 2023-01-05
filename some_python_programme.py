@@ -11,6 +11,10 @@ for x in range(int(input())):
             if i%2==1:
                 total.append(i)
         print(sum(total))
+
+'''
+The name of our country is Bangladesh. I love this country very much. Because this is my own country.
+'''        
        
     
 #second_programme
