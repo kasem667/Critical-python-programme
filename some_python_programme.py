@@ -11,3 +11,11 @@ for x in range(int(input())):
             if i%2==1:
                 total.append(i)
         print(sum(total))
+       
+    
+#second_programme
+num = int(input())
+if num%2==0:
+    print("Even")
+else:
+    print("Odd")
